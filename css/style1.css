@@ -35,7 +35,7 @@ header p{
 	position: absolute;
 	top: 184px; left: 75%;
 	-webkit-user-select: none;
-	display: none;
+	
 	border-top: 1px solid #FFF;
 	border-left: 1px solid #FFF;
 	border-right: 1px solid #FFF;
